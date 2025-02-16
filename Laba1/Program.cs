@@ -4,9 +4,10 @@ namespace Laba1
     {
         public static void Main(string[] args)
         {
+            // СОЗДАНИЕ ЭКЗЕМПЛЯРА WebApplication
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
+            // РЕГИСТРАЦИЯ СЕРВИСОВ (осуществляется через Dependency Injection)
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
@@ -19,6 +20,7 @@ namespace Laba1
                 app.UseHsts();
             }
 
+            // КОНФИГУРАЦИЯ middleware (например, маршрутизация, обработка статических файлов, обработка ошибок)
             app.UseHttpsRedirection();
             app.UseRouting();
 
@@ -30,6 +32,7 @@ namespace Laba1
                 pattern: "{controller=Home}/{action=Index}/{id?}")
                 .WithStaticAssets();
 
+            // ЗАПУСК ПРИЛОЖЕНИЯ
             app.Run();
         }
     }
