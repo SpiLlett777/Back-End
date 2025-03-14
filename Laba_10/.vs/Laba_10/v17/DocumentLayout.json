@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9957F-4827-4D59-8036-33FEE84C4678}|Laba_10.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_10\\data\\musicdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9957F-4827-4D59-8036-33FEE84C4678}|Laba_10.csproj|solutionrelative:data\\musicdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9957F-4827-4D59-8036-33FEE84C4678}|Laba_10.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_10\\models\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9957F-4827-4D59-8036-33FEE84C4678}|Laba_10.csproj|solutionrelative:models\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9957F-4827-4D59-8036-33FEE84C4678}|Laba_10.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_10\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9957F-4827-4D59-8036-33FEE84C4678}|Laba_10.csproj|solutionrelative:controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9957F-4827-4D59-8036-33FEE84C4678}|Laba_10.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9957F-4827-4D59-8036-33FEE84C4678}|Laba_10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 164,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_10\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_10\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:06:00.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicDb.cs",
+              "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_10\\Data\\MusicDb.cs",
+              "RelativeDocumentMoniker": "Data\\MusicDb.cs",
+              "ToolTip": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_10\\Data\\MusicDb.cs",
+              "RelativeToolTip": "Data\\MusicDb.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:50:26.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicController.cs",
+              "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_10\\Controllers\\MusicController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MusicController.cs",
+              "ToolTip": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_10\\Controllers\\MusicController.cs",
+              "RelativeToolTip": "Controllers\\MusicController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:49:01.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Track.cs",
+              "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_10\\Models\\Track.cs",
+              "RelativeDocumentMoniker": "Models\\Track.cs",
+              "ToolTip": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_10\\Models\\Track.cs",
+              "RelativeToolTip": "Models\\Track.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:46:19.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
