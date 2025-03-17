@@ -1,0 +1,160 @@
+[
+  {
+    "ContainingType": "Laba_11.Controllers.BirdController",
+    "Method": "GetBirds",
+    "RelativePath": "api/Bird",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laba_11.Controllers.BirdController",
+    "Method": "CreateBird",
+    "RelativePath": "api/Bird",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Laba_11.Dtos.CreateBirdDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laba_11.Controllers.BirdController",
+    "Method": "GetBird",
+    "RelativePath": "api/Bird/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laba_11.Controllers.BirdController",
+    "Method": "UpdateBird",
+    "RelativePath": "api/Bird/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Laba_11.Dtos.UpdateBirdDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laba_11.Controllers.BirdController",
+    "Method": "DeleteBird",
+    "RelativePath": "api/Bird/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laba_11.Controllers.EcologicalNicheController",
+    "Method": "GetNiches",
+    "RelativePath": "api/EcologicalNiche",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laba_11.Controllers.EcologicalNicheController",
+    "Method": "CreateNiche",
+    "RelativePath": "api/EcologicalNiche",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Laba_11.Dtos.CreateEcologicalNicheDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laba_11.Controllers.EcologicalNicheController",
+    "Method": "GetNiche",
+    "RelativePath": "api/EcologicalNiche/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laba_11.Controllers.EcologicalNicheController",
+    "Method": "UpdateNiche",
+    "RelativePath": "api/EcologicalNiche/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Laba_11.Dtos.UpdateEcologicalNicheDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laba_11.Controllers.EcologicalNicheController",
+    "Method": "DeleteNiche",
+    "RelativePath": "api/EcologicalNiche/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
