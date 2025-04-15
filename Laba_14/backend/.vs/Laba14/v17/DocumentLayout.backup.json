@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_14\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B16B9826-431B-45BB-8926-7A72DD0AEC0E}|Laba12.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_14\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16B9826-431B-45BB-8926-7A72DD0AEC0E}|Laba12.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B16B9826-431B-45BB-8926-7A72DD0AEC0E}|Laba12.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_14\\backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B16B9826-431B-45BB-8926-7A72DD0AEC0E}|Laba12.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B16B9826-431B-45BB-8926-7A72DD0AEC0E}|Laba12.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_14\\backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B16B9826-431B-45BB-8926-7A72DD0AEC0E}|Laba12.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B16B9826-431B-45BB-8926-7A72DD0AEC0E}|Laba12.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_14\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B16B9826-431B-45BB-8926-7A72DD0AEC0E}|Laba12.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 182,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "20250301001834_Init.cs",
               "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_14\\backend\\Migrations\\20250301001834_Init.cs",
               "RelativeDocumentMoniker": "Migrations\\20250301001834_Init.cs",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_14\\backend\\Migrations\\ProductDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\ProductDbContextModelSnapshot.cs",
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_14\\backend\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductDbContext.cs",
               "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_14\\backend\\Models\\ProductDbContext.cs",
               "RelativeDocumentMoniker": "Models\\ProductDbContext.cs",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_14\\backend\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -111,20 +111,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_14\\backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_14\\backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T20:12:35.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_14\\backend\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",

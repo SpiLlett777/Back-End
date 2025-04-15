@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_13.csproj|solutionrelative:controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_13.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_13\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_13.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_13.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_13\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_13.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_13.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_13\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_13.csproj|solutionrelative:models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,20 +27,12 @@
       "RelativeMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_13.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_13.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_13\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_13.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_13.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_13\\models\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_13.csproj|solutionrelative:models\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_13.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_13\\models\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_13.csproj|solutionrelative:models\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_13.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_13\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_13.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_13.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_13\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "RefreshTokenRequestDto.cs",
               "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_13\\Models\\RefreshTokenRequestDto.cs",
               "RelativeDocumentMoniker": "Models\\RefreshTokenRequestDto.cs",
@@ -75,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TokenResponseDto.cs",
               "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_13\\Models\\TokenResponseDto.cs",
               "RelativeDocumentMoniker": "Models\\TokenResponseDto.cs",
@@ -88,13 +88,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_13\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Services\\AuthService.cs",
               "ToolTip": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_13\\Services\\AuthService.cs",
               "RelativeToolTip": "Services\\AuthService.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAwwGkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T21:28:34.473Z",
               "EditorCaption": ""
@@ -127,13 +127,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_13\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_13\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-12T20:59:29.248Z",
               "EditorCaption": ""
@@ -146,14 +146,14 @@
               "RelativeDocumentMoniker": "Controllers\\AuthorizationController.cs",
               "ToolTip": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_13\\Controllers\\AuthorizationController.cs",
               "RelativeToolTip": "Controllers\\AuthorizationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwDAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T20:40:50.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserDto.cs",
               "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_13\\Models\\UserDto.cs",
               "RelativeDocumentMoniker": "Models\\UserDto.cs",
@@ -166,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_13\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Entities\\User.cs",
@@ -179,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_13\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

@@ -1,0 +1,6 @@
+@Laba_7_HostAddress = http://localhost:5242
+
+GET {{Laba_7_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
