@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_17\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B16B9826-431B-45BB-8926-7A72DD0AEC0E}|Laba14.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_17\\backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16B9826-431B-45BB-8926-7A72DD0AEC0E}|Laba14.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16B9826-431B-45BB-8926-7A72DD0AEC0E}|Laba14.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_17\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16B9826-431B-45BB-8926-7A72DD0AEC0E}|Laba14.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16B9826-431B-45BB-8926-7A72DD0AEC0E}|Laba17.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_17\\backend\\migrations\\20250301001834_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16B9826-431B-45BB-8926-7A72DD0AEC0E}|Laba17.csproj|solutionrelative:migrations\\20250301001834_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16B9826-431B-45BB-8926-7A72DD0AEC0E}|Laba14.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_17\\backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16B9826-431B-45BB-8926-7A72DD0AEC0E}|Laba14.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250301001834_Init.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_17\\backend\\Migrations\\20250301001834_Init.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250301001834_Init.Designer.cs",
+              "ToolTip": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_17\\backend\\Migrations\\20250301001834_Init.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250301001834_Init.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:35:05.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_17\\backend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_17\\backend\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T23:52:15.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_17\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_17\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAD0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:12:35.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_17\\backend\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B IV-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Back-End\\Laba_17\\backend\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T00:07:16.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

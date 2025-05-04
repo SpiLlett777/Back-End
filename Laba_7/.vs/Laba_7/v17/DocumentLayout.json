@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_7.csproj|solutionrelative:controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_6.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_7.csproj|d:\\study\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B iv-\u044B\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\back-end\\laba_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8BC2A7-088B-427D-9F55-212437ECCF33}|Laba_7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T18:24:26.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T18:24:26.859Z"
             }
           ]
         }
