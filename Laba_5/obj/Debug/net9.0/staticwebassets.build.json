@@ -1,0 +1,1145 @@
+{
+  "Version": 1,
+  "Hash": "U6crbBhO9BujTq5eL4wCbQlKRgGaudLcCfjd+Idqh+w=",
+  "Source": "Laba5",
+  "BasePath": "_content/Laba5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Laba5\\wwwroot",
+      "Source": "Laba5",
+      "ContentRoot": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\",
+      "BasePath": "_content/Laba5",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\fcxkp7vtpj-926e4cf3qk.gz",
+      "SourceId": "Laba5",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Laba5",
+      "RelativePath": "index#[.{fingerprint=926e4cf3qk}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "g95gj9dz2u",
+      "Integrity": "XDotn/3xEJfm8fiya2Lzpud7qOL4VktzD3j2zIa9lLc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\im5kpvp5wg-ft5dhmwub8.gz",
+      "SourceId": "Laba5",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Laba5",
+      "RelativePath": "css/site#[.{fingerprint=ft5dhmwub8}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\css\\site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "sv8i9n6efu",
+      "Integrity": "eEJhErqOBxxyQxA6s2PY7CmEhCagl0Yn0UjMAURCDeM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\pugm5j75z5-2tpotx0pw5.gz",
+      "SourceId": "Laba5",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Laba5",
+      "RelativePath": "js/app#[.{fingerprint=2tpotx0pw5}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\js\\app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xlv1rswpji",
+      "Integrity": "u35f+SDHudiSAt1DNcAsssmZ3aGXeHtdIAHImsRiOuE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\js\\app.js"
+    },
+    {
+      "Identity": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\css\\site.css",
+      "SourceId": "Laba5",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\",
+      "BasePath": "_content/Laba5",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ft5dhmwub8",
+      "Integrity": "s6cPekn2tZZAnK8ZxOKeh65KuSbwpHO0/o4Gpmi6tUk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\images\\logo.jpg",
+      "SourceId": "Laba5",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\",
+      "BasePath": "_content/Laba5",
+      "RelativePath": "images/logo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "efzqsofj97",
+      "Integrity": "2uGVpxggWowNaOFsk4XM/V8bd3gKwymbHOUKVn0AZJY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
+    },
+    {
+      "Identity": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\index.html",
+      "SourceId": "Laba5",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\",
+      "BasePath": "_content/Laba5",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "926e4cf3qk",
+      "Integrity": "MfoGDtUhTEsWNwN/7oMRkWhwVKQHONEK7X8CWqGEuEk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\js\\app.js",
+      "SourceId": "Laba5",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\",
+      "BasePath": "_content/Laba5",
+      "RelativePath": "js/app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2tpotx0pw5",
+      "Integrity": "WsY/yqS+HHW6WuGOk9kZE4I3muMpk+bbViqMeQzKQgI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\app.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\im5kpvp5wg-ft5dhmwub8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.012345679012"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eEJhErqOBxxyQxA6s2PY7CmEhCagl0Yn0UjMAURCDeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"s6cPekn2tZZAnK8ZxOKeh65KuSbwpHO0/o4Gpmi6tUk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s6cPekn2tZZAnK8ZxOKeh65KuSbwpHO0/o4Gpmi6tUk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s6cPekn2tZZAnK8ZxOKeh65KuSbwpHO0/o4Gpmi6tUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s6cPekn2tZZAnK8ZxOKeh65KuSbwpHO0/o4Gpmi6tUk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\im5kpvp5wg-ft5dhmwub8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eEJhErqOBxxyQxA6s2PY7CmEhCagl0Yn0UjMAURCDeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eEJhErqOBxxyQxA6s2PY7CmEhCagl0Yn0UjMAURCDeM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ft5dhmwub8.css",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\im5kpvp5wg-ft5dhmwub8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.012345679012"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eEJhErqOBxxyQxA6s2PY7CmEhCagl0Yn0UjMAURCDeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"s6cPekn2tZZAnK8ZxOKeh65KuSbwpHO0/o4Gpmi6tUk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ft5dhmwub8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s6cPekn2tZZAnK8ZxOKeh65KuSbwpHO0/o4Gpmi6tUk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ft5dhmwub8.css",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s6cPekn2tZZAnK8ZxOKeh65KuSbwpHO0/o4Gpmi6tUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ft5dhmwub8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s6cPekn2tZZAnK8ZxOKeh65KuSbwpHO0/o4Gpmi6tUk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ft5dhmwub8.css.gz",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\im5kpvp5wg-ft5dhmwub8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eEJhErqOBxxyQxA6s2PY7CmEhCagl0Yn0UjMAURCDeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ft5dhmwub8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eEJhErqOBxxyQxA6s2PY7CmEhCagl0Yn0UjMAURCDeM="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.efzqsofj97.jpg",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\images\\logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2uGVpxggWowNaOFsk4XM/V8bd3gKwymbHOUKVn0AZJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Mar 2020 21:22:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "efzqsofj97"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2uGVpxggWowNaOFsk4XM/V8bd3gKwymbHOUKVn0AZJY="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.jpg",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\images\\logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2uGVpxggWowNaOFsk4XM/V8bd3gKwymbHOUKVn0AZJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Mar 2020 21:22:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2uGVpxggWowNaOFsk4XM/V8bd3gKwymbHOUKVn0AZJY="
+        }
+      ]
+    },
+    {
+      "Route": "index.926e4cf3qk.html",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\fcxkp7vtpj-926e4cf3qk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003086419753"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XDotn/3xEJfm8fiya2Lzpud7qOL4VktzD3j2zIa9lLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MfoGDtUhTEsWNwN/7oMRkWhwVKQHONEK7X8CWqGEuEk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "926e4cf3qk"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MfoGDtUhTEsWNwN/7oMRkWhwVKQHONEK7X8CWqGEuEk="
+        }
+      ]
+    },
+    {
+      "Route": "index.926e4cf3qk.html",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MfoGDtUhTEsWNwN/7oMRkWhwVKQHONEK7X8CWqGEuEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "926e4cf3qk"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MfoGDtUhTEsWNwN/7oMRkWhwVKQHONEK7X8CWqGEuEk="
+        }
+      ]
+    },
+    {
+      "Route": "index.926e4cf3qk.html.gz",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\fcxkp7vtpj-926e4cf3qk.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XDotn/3xEJfm8fiya2Lzpud7qOL4VktzD3j2zIa9lLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "926e4cf3qk"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XDotn/3xEJfm8fiya2Lzpud7qOL4VktzD3j2zIa9lLc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\fcxkp7vtpj-926e4cf3qk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003086419753"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XDotn/3xEJfm8fiya2Lzpud7qOL4VktzD3j2zIa9lLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MfoGDtUhTEsWNwN/7oMRkWhwVKQHONEK7X8CWqGEuEk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MfoGDtUhTEsWNwN/7oMRkWhwVKQHONEK7X8CWqGEuEk="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MfoGDtUhTEsWNwN/7oMRkWhwVKQHONEK7X8CWqGEuEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MfoGDtUhTEsWNwN/7oMRkWhwVKQHONEK7X8CWqGEuEk="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\fcxkp7vtpj-926e4cf3qk.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XDotn/3xEJfm8fiya2Lzpud7qOL4VktzD3j2zIa9lLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XDotn/3xEJfm8fiya2Lzpud7qOL4VktzD3j2zIa9lLc="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.2tpotx0pw5.js",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\pugm5j75z5-2tpotx0pw5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004444444444"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u35f+SDHudiSAt1DNcAsssmZ3aGXeHtdIAHImsRiOuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WsY/yqS+HHW6WuGOk9kZE4I3muMpk+bbViqMeQzKQgI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2tpotx0pw5"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WsY/yqS+HHW6WuGOk9kZE4I3muMpk+bbViqMeQzKQgI="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.2tpotx0pw5.js",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\js\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WsY/yqS+HHW6WuGOk9kZE4I3muMpk+bbViqMeQzKQgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2tpotx0pw5"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WsY/yqS+HHW6WuGOk9kZE4I3muMpk+bbViqMeQzKQgI="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.2tpotx0pw5.js.gz",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\pugm5j75z5-2tpotx0pw5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u35f+SDHudiSAt1DNcAsssmZ3aGXeHtdIAHImsRiOuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2tpotx0pw5"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u35f+SDHudiSAt1DNcAsssmZ3aGXeHtdIAHImsRiOuE="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\pugm5j75z5-2tpotx0pw5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004444444444"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u35f+SDHudiSAt1DNcAsssmZ3aGXeHtdIAHImsRiOuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WsY/yqS+HHW6WuGOk9kZE4I3muMpk+bbViqMeQzKQgI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WsY/yqS+HHW6WuGOk9kZE4I3muMpk+bbViqMeQzKQgI="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\wwwroot\\js\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WsY/yqS+HHW6WuGOk9kZE4I3muMpk+bbViqMeQzKQgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WsY/yqS+HHW6WuGOk9kZE4I3muMpk+bbViqMeQzKQgI="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js.gz",
+      "AssetFile": "D:\\Study\\Лабораторные работы IV-ый семестр\\Back-End\\Laba_5\\obj\\Debug\\net9.0\\compressed\\pugm5j75z5-2tpotx0pw5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u35f+SDHudiSAt1DNcAsssmZ3aGXeHtdIAHImsRiOuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 14:18:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u35f+SDHudiSAt1DNcAsssmZ3aGXeHtdIAHImsRiOuE="
+        }
+      ]
+    }
+  ]
+}

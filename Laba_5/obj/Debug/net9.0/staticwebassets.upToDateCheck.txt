@@ -1,0 +1,7 @@
+D:\Study\Лабораторные работы IV-ый семестр\Back-End\Laba_5\wwwroot\index.html
+D:\Study\Лабораторные работы IV-ый семестр\Back-End\Laba_5\wwwroot\css\site.css
+D:\Study\Лабораторные работы IV-ый семестр\Back-End\Laba_5\wwwroot\js\app.js
+wwwroot\css\site.css
+wwwroot\images\logo.jpg
+wwwroot\index.html
+wwwroot\js\app.js
