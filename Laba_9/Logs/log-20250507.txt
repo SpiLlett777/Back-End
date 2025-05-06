@@ -1,0 +1,49 @@
+2025-05-07 00:00:45.198 +03:00 [DBG] Connection id "0HNCCS3CTEMVO" accepted.
+2025-05-07 00:00:45.259 +03:00 [DBG] Connection id "0HNCCS3CTEMVO" started.
+2025-05-07 00:00:45.351 +03:00 [DBG] Connection 0HNCCS3CTEMVO established using the following protocol: "Tls12"
+2025-05-07 00:00:45.388 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-07 00:00:45.431 +03:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-05-07 00:00:45.452 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - 200 16495 application/javascript; charset=utf-8 64.2565ms
+2025-05-07 00:00:46.140 +03:00 [DBG] Connection id "0HNCCS3CTEMVO" received FIN.
+2025-05-07 00:00:46.166 +03:00 [DBG] Connection id "0HNCCS3CTEMVO" is closed. The last processed stream ID was 1.
+2025-05-07 00:00:46.166 +03:00 [DBG] The connection queue processing loop for 0HNCCS3CTEMVO completed.
+2025-05-07 00:00:46.172 +03:00 [DBG] Connection id "0HNCCS3CTEMVO" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-05-07 00:00:46.192 +03:00 [DBG] Connection id "0HNCCS3CTEMVO" stopped.
+2025-05-07 00:01:02.263 +03:00 [DBG] Connection id "0HNCCS3CTEMVP" accepted.
+2025-05-07 00:01:02.265 +03:00 [DBG] Connection id "0HNCCS3CTEMVP" started.
+2025-05-07 00:01:02.269 +03:00 [DBG] Connection 0HNCCS3CTEMVP established using the following protocol: "Tls12"
+2025-05-07 00:01:02.272 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/error/404 - null null
+2025-05-07 00:01:02.288 +03:00 [DBG] 1 candidate(s) found for the request path '/error/404'
+2025-05-07 00:01:02.290 +03:00 [DBG] Endpoint 'Laba9.Controllers.ErrorController.HandleStatusCode (Laba9)' with route pattern 'Error/{code:int}' is valid for the request path '/error/404'
+2025-05-07 00:01:02.295 +03:00 [DBG] Request matched endpoint 'Laba9.Controllers.ErrorController.HandleStatusCode (Laba9)'
+2025-05-07 00:01:02.297 +03:00 [INF] No cached response available for this request.
+2025-05-07 00:01:02.298 +03:00 [INF] Executing endpoint 'Laba9.Controllers.ErrorController.HandleStatusCode (Laba9)'
+2025-05-07 00:01:02.310 +03:00 [INF] Route matched with {action = "HandleStatusCode", controller = "Error"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult HandleStatusCode(Int32) on controller Laba9.Controllers.ErrorController (Laba9).
+2025-05-07 00:01:02.314 +03:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-05-07 00:01:02.316 +03:00 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-05-07 00:01:02.320 +03:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2025-05-07 00:01:02.329 +03:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-05-07 00:01:02.331 +03:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-05-07 00:01:02.333 +03:00 [DBG] Executing controller factory for controller Laba9.Controllers.ErrorController (Laba9)
+2025-05-07 00:01:02.336 +03:00 [DBG] Executed controller factory for controller Laba9.Controllers.ErrorController (Laba9)
+2025-05-07 00:01:02.346 +03:00 [DBG] Attempting to bind parameter 'code' of type 'System.Int32' ...
+2025-05-07 00:01:02.350 +03:00 [DBG] Attempting to bind parameter 'code' of type 'System.Int32' using the name 'code' in request data ...
+2025-05-07 00:01:02.354 +03:00 [DBG] Done attempting to bind parameter 'code' of type 'System.Int32'.
+2025-05-07 00:01:02.359 +03:00 [DBG] Done attempting to bind parameter 'code' of type 'System.Int32'.
+2025-05-07 00:01:02.361 +03:00 [DBG] Attempting to validate the bound parameter 'code' of type 'System.Int32' ...
+2025-05-07 00:01:02.366 +03:00 [DBG] Done attempting to validate the bound parameter 'code' of type 'System.Int32'.
+2025-05-07 00:01:02.370 +03:00 [DBG] View lookup cache hit for view 'StatusCode' in controller 'Error'.
+2025-05-07 00:01:02.375 +03:00 [INF] Executing ViewResult, running view StatusCode.
+2025-05-07 00:01:02.377 +03:00 [DBG] The view path '/Views/Error/StatusCode.cshtml' was found in 7.5015ms.
+2025-05-07 00:01:02.383 +03:00 [DBG] Response is not cacheable because it does not contain the 'public' cache directive.
+2025-05-07 00:01:02.390 +03:00 [INF] Executed ViewResult - view StatusCode executed in 20.625ms.
+2025-05-07 00:01:02.393 +03:00 [INF] Executed action Laba9.Controllers.ErrorController.HandleStatusCode (Laba9) in 60.0411ms
+2025-05-07 00:01:02.396 +03:00 [INF] Executed endpoint 'Laba9.Controllers.ErrorController.HandleStatusCode (Laba9)'
+2025-05-07 00:01:02.398 +03:00 [INF] The response could not be cached for this request.
+2025-05-07 00:01:02.400 +03:00 [INF] HTTP GET /error/404 responded 404 in 102.7404 ms
+2025-05-07 00:01:02.412 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/error/404 - 404 null text/html; charset=utf-8 139.3479ms
+2025-05-07 00:01:06.140 +03:00 [DBG] Connection id "0HNCCS3CTEMVP" received FIN.
+2025-05-07 00:01:06.146 +03:00 [DBG] Connection id "0HNCCS3CTEMVP" is closed. The last processed stream ID was 1.
+2025-05-07 00:01:06.147 +03:00 [DBG] The connection queue processing loop for 0HNCCS3CTEMVP completed.
+2025-05-07 00:01:06.152 +03:00 [DBG] Connection id "0HNCCS3CTEMVP" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-05-07 00:01:06.180 +03:00 [DBG] Connection id "0HNCCS3CTEMVP" stopped.
