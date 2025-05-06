@@ -1,0 +1,6 @@
+D:\Study\Лабораторные работы IV-ый семестр\Back-End\Laba_16\wwwroot\index.html
+D:\Study\Лабораторные работы IV-ый семестр\Back-End\Laba_16\wwwroot\js\app.js
+D:\Study\Лабораторные работы IV-ый семестр\Back-End\Laba_16\wwwroot\css\site.css
+wwwroot\css\site.css
+wwwroot\index.html
+wwwroot\js\app.js

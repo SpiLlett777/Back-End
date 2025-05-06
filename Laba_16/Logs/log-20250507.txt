@@ -1,0 +1,368 @@
+2025-05-07 00:45:51.527 +03:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-05-07 00:45:52.400 +03:00 [DBG] Hosting starting
+2025-05-07 00:45:52.513 +03:00 [INF] User profile is available. Using 'C:\Users\Карен\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-05-07 00:45:52.544 +03:00 [DBG] Reading data from file 'C:\Users\Карен\AppData\Local\ASP.NET\DataProtection-Keys\key-4e3badc8-8650-41c3-a45e-6dbe3db524a3.xml'.
+2025-05-07 00:45:52.659 +03:00 [DBG] Found key {4e3badc8-8650-41c3-a45e-6dbe3db524a3}.
+2025-05-07 00:45:52.703 +03:00 [DBG] Considering key {4e3badc8-8650-41c3-a45e-6dbe3db524a3} with expiration date 2025-05-16 23:20:43Z as default key.
+2025-05-07 00:45:52.738 +03:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2025-05-07 00:45:52.758 +03:00 [DBG] Decrypting secret element using Windows DPAPI.
+2025-05-07 00:45:52.768 +03:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2025-05-07 00:45:52.786 +03:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2025-05-07 00:45:52.796 +03:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2025-05-07 00:45:52.808 +03:00 [DBG] Using key {4e3badc8-8650-41c3-a45e-6dbe3db524a3} as the default key.
+2025-05-07 00:45:52.817 +03:00 [DBG] Key ring with default key {4e3badc8-8650-41c3-a45e-6dbe3db524a3} was loaded during application startup.
+2025-05-07 00:45:52.843 +03:00 [DBG] Middleware loaded
+2025-05-07 00:45:52.916 +03:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16497 B).
+2025-05-07 00:45:52.930 +03:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-05-07 00:45:53.245 +03:00 [DBG] Middleware configuration started with options: {AllowedHosts = *, AllowEmptyHosts = True, IncludeFailureMessage = True}
+2025-05-07 00:45:53.248 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-05-07 00:45:53.331 +03:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-05-07 00:45:53.626 +03:00 [INF] Now listening on: https://localhost:7039
+2025-05-07 00:45:53.628 +03:00 [INF] Now listening on: http://localhost:5263
+2025-05-07 00:45:53.630 +03:00 [DBG] Loaded hosting startup assembly Laba16
+2025-05-07 00:45:53.631 +03:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-05-07 00:45:53.632 +03:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-05-07 00:45:53.662 +03:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-05-07 00:45:53.675 +03:00 [DBG] Executing API description provider 'EndpointMetadataApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0.
+2025-05-07 00:45:53.677 +03:00 [DBG] Executing API description provider 'DefaultApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0.
+2025-05-07 00:45:53.732 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-07 00:45:53.738 +03:00 [INF] Hosting environment: Development
+2025-05-07 00:45:53.741 +03:00 [INF] Content root path: D:\Study\Лабораторные работы IV-ый семестр\Back-End\Laba_16
+2025-05-07 00:45:53.749 +03:00 [DBG] Hosting started
+2025-05-07 00:46:02.915 +03:00 [DBG] Connection id "0HNCCSTIS27KP" accepted.
+2025-05-07 00:46:02.948 +03:00 [DBG] Connection id "0HNCCSTIS27KP" started.
+2025-05-07 00:46:03.366 +03:00 [DBG] Connection 0HNCCSTIS27KP established using the following protocol: "Tls12"
+2025-05-07 00:46:03.544 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/scalar - null null
+2025-05-07 00:46:03.884 +03:00 [DBG] 1 candidate(s) found for the request path '/scalar'
+2025-05-07 00:46:03.886 +03:00 [DBG] Endpoint 'HTTP: GET /scalar/{documentName?}' with route pattern '/scalar/{documentName?}' is valid for the request path '/scalar'
+2025-05-07 00:46:03.889 +03:00 [DBG] Request matched endpoint 'HTTP: GET /scalar/{documentName?}'
+2025-05-07 00:46:03.904 +03:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-05-07 00:46:03.914 +03:00 [INF] No cached response available for this request.
+2025-05-07 00:46:03.935 +03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName?}'
+2025-05-07 00:46:03.983 +03:00 [INF] Executing RedirectResult, redirecting to scalar/.
+2025-05-07 00:46:03.993 +03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName?}'
+2025-05-07 00:46:04.002 +03:00 [DBG] Response is not cacheable because it does not contain the 'public' cache directive.
+2025-05-07 00:46:04.011 +03:00 [INF] The response could not be cached for this request.
+2025-05-07 00:46:04.019 +03:00 [INF] HTTP GET /scalar responded 302 in 109.3192 ms
+2025-05-07 00:46:04.040 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/scalar - 302 0 null 507.0447ms
+2025-05-07 00:46:04.059 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/scalar/ - null null
+2025-05-07 00:46:04.084 +03:00 [DBG] 1 candidate(s) found for the request path '/scalar/'
+2025-05-07 00:46:04.091 +03:00 [DBG] Endpoint 'HTTP: GET /scalar/{documentName?}' with route pattern '/scalar/{documentName?}' is valid for the request path '/scalar/'
+2025-05-07 00:46:04.096 +03:00 [DBG] Request matched endpoint 'HTTP: GET /scalar/{documentName?}'
+2025-05-07 00:46:04.104 +03:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-05-07 00:46:04.108 +03:00 [INF] No cached response available for this request.
+2025-05-07 00:46:04.112 +03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName?}'
+2025-05-07 00:46:04.180 +03:00 [INF] Write content with HTTP Response ContentType of text/html
+2025-05-07 00:46:04.184 +03:00 [DBG] Response is not cacheable because it does not contain the 'public' cache directive.
+2025-05-07 00:46:04.187 +03:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-05-07 00:46:04.190 +03:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-05-07 00:46:04.206 +03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName?}'
+2025-05-07 00:46:04.269 +03:00 [INF] The response could not be cached for this request.
+2025-05-07 00:46:04.283 +03:00 [INF] HTTP GET /scalar/ responded 200 in 174.9477 ms
+2025-05-07 00:46:04.305 +03:00 [DBG] Response markup was updated to include Browser Link script injection.
+2025-05-07 00:46:04.312 +03:00 [DBG] Response markup was updated to include browser refresh script injection.
+2025-05-07 00:46:04.330 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/scalar/ - 200 null text/html 271.8887ms
+2025-05-07 00:46:04.413 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/scalar/scalar.aspnetcore.js - null null
+2025-05-07 00:46:04.415 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-07 00:46:04.416 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/scalar/scalar.js - null null
+2025-05-07 00:46:04.493 +03:00 [DBG] 2 candidate(s) found for the request path '/scalar/scalar.aspnetcore.js'
+2025-05-07 00:46:04.557 +03:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-05-07 00:46:04.558 +03:00 [DBG] 2 candidate(s) found for the request path '/scalar/scalar.js'
+2025-05-07 00:46:04.570 +03:00 [DBG] Endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js' with route pattern '/scalar/scalar.aspnetcore.js' is valid for the request path '/scalar/scalar.aspnetcore.js'
+2025-05-07 00:46:04.574 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - 200 16497 application/javascript; charset=utf-8 158.7342ms
+2025-05-07 00:46:04.578 +03:00 [DBG] Endpoint 'HTTP: GET /scalar/scalar.js' with route pattern '/scalar/scalar.js' is valid for the request path '/scalar/scalar.js'
+2025-05-07 00:46:04.579 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/_vs/browserLink - null null
+2025-05-07 00:46:04.592 +03:00 [DBG] Endpoint 'HTTP: GET /scalar/{documentName?}' with route pattern '/scalar/{documentName?}' is valid for the request path '/scalar/scalar.aspnetcore.js'
+2025-05-07 00:46:04.610 +03:00 [DBG] Endpoint 'HTTP: GET /scalar/{documentName?}' with route pattern '/scalar/{documentName?}' is valid for the request path '/scalar/scalar.js'
+2025-05-07 00:46:04.635 +03:00 [DBG] Request matched endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2025-05-07 00:46:04.641 +03:00 [DBG] Request matched endpoint 'HTTP: GET /scalar/scalar.js'
+2025-05-07 00:46:04.652 +03:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-05-07 00:46:04.655 +03:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-05-07 00:46:04.668 +03:00 [INF] No cached response available for this request.
+2025-05-07 00:46:04.682 +03:00 [INF] No cached response available for this request.
+2025-05-07 00:46:04.690 +03:00 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2025-05-07 00:46:04.698 +03:00 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.js'
+2025-05-07 00:46:04.734 +03:00 [INF] Setting HTTP status code 304.
+2025-05-07 00:46:04.734 +03:00 [INF] Setting HTTP status code 304.
+2025-05-07 00:46:04.761 +03:00 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.js'
+2025-05-07 00:46:04.836 +03:00 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2025-05-07 00:46:04.842 +03:00 [DBG] Response is not cacheable because it does not contain the 'public' cache directive.
+2025-05-07 00:46:04.842 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/_vs/browserLink - 200 null text/javascript; charset=UTF-8 262.9971ms
+2025-05-07 00:46:04.841 +03:00 [DBG] Response is not cacheable because it does not contain the 'public' cache directive.
+2025-05-07 00:46:04.845 +03:00 [INF] The response could not be cached for this request.
+2025-05-07 00:46:04.856 +03:00 [INF] The response could not be cached for this request.
+2025-05-07 00:46:04.858 +03:00 [INF] HTTP GET /scalar/scalar.aspnetcore.js responded 304 in 190.1316 ms
+2025-05-07 00:46:04.859 +03:00 [INF] HTTP GET /scalar/scalar.js responded 304 in 177.7482 ms
+2025-05-07 00:46:04.862 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/scalar/scalar.aspnetcore.js - 304 null null 449.0437ms
+2025-05-07 00:46:04.873 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/scalar/scalar.js - 304 null null 457.0863ms
+2025-05-07 00:46:05.176 +03:00 [DBG] Connection id "0HNCCSTIS27KP" received FIN.
+2025-05-07 00:46:05.183 +03:00 [DBG] The connection queue processing loop for 0HNCCSTIS27KP completed.
+2025-05-07 00:46:05.186 +03:00 [DBG] Connection id "0HNCCSTIS27KP" is closed. The last processed stream ID was 11.
+2025-05-07 00:46:05.192 +03:00 [DBG] Connection id "0HNCCSTIS27KP" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-05-07 00:46:05.209 +03:00 [DBG] Connection id "0HNCCSTIS27KQ" accepted.
+2025-05-07 00:46:05.210 +03:00 [DBG] Connection id "0HNCCSTIS27KP" stopped.
+2025-05-07 00:46:05.212 +03:00 [DBG] Connection id "0HNCCSTIS27KQ" started.
+2025-05-07 00:46:05.228 +03:00 [DBG] Connection 0HNCCSTIS27KQ established using the following protocol: "Tls12"
+2025-05-07 00:46:05.233 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/openapi/v1.json - null null
+2025-05-07 00:46:05.239 +03:00 [DBG] 1 candidate(s) found for the request path '/openapi/v1.json'
+2025-05-07 00:46:05.242 +03:00 [DBG] Endpoint 'HTTP: GET /openapi/{documentName}.json' with route pattern '/openapi/{documentName}.json' is valid for the request path '/openapi/v1.json'
+2025-05-07 00:46:05.244 +03:00 [DBG] Request matched endpoint 'HTTP: GET /openapi/{documentName}.json'
+2025-05-07 00:46:05.246 +03:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-05-07 00:46:05.249 +03:00 [INF] No cached response available for this request.
+2025-05-07 00:46:05.256 +03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2025-05-07 00:46:05.528 +03:00 [DBG] Response is not cacheable because it does not contain the 'public' cache directive.
+2025-05-07 00:46:05.560 +03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2025-05-07 00:46:05.566 +03:00 [INF] The response could not be cached for this request.
+2025-05-07 00:46:05.569 +03:00 [INF] HTTP GET /openapi/v1.json responded 200 in 319.7103 ms
+2025-05-07 00:46:05.573 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/openapi/v1.json - 200 null application/json;charset=utf-8 339.9464ms
+2025-05-07 00:46:13.669 +03:00 [DBG] Connection id "0HNCCSTIS27KQ" received FIN.
+2025-05-07 00:46:13.741 +03:00 [DBG] Connection id "0HNCCSTIS27KQ" is closed. The last processed stream ID was 1.
+2025-05-07 00:46:13.749 +03:00 [DBG] The connection queue processing loop for 0HNCCSTIS27KQ completed.
+2025-05-07 00:46:13.780 +03:00 [DBG] Connection id "0HNCCSTIS27KQ" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-05-07 00:46:13.810 +03:00 [DBG] Connection id "0HNCCSTIS27KQ" stopped.
+2025-05-07 00:46:16.479 +03:00 [DBG] Connection id "0HNCCSTIS27KR" accepted.
+2025-05-07 00:46:16.482 +03:00 [DBG] Connection id "0HNCCSTIS27KR" started.
+2025-05-07 00:46:16.493 +03:00 [DBG] Connection 0HNCCSTIS27KR established using the following protocol: "Tls12"
+2025-05-07 00:46:16.497 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/ - null null
+2025-05-07 00:46:16.504 +03:00 [DBG] No candidates found for the request path '/'
+2025-05-07 00:46:16.509 +03:00 [DBG] Request did not match any endpoints
+2025-05-07 00:46:16.564 +03:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-05-07 00:46:16.570 +03:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-05-07 00:46:16.600 +03:00 [INF] Sending file. Request path: '/index.html'. Physical path: 'D:\Study\Лабораторные работы IV-ый семестр\Back-End\Laba_16\wwwroot\index.html'
+2025-05-07 00:46:16.621 +03:00 [DBG] Response markup was updated to include Browser Link script injection.
+2025-05-07 00:46:16.626 +03:00 [DBG] Response markup was updated to include browser refresh script injection.
+2025-05-07 00:46:16.635 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/index.html - 200 null text/html 137.922ms
+2025-05-07 00:46:16.741 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/js/app.js - null null
+2025-05-07 00:46:16.747 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/_vs/browserLink - null null
+2025-05-07 00:46:16.753 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-07 00:46:16.756 +03:00 [DBG] No candidates found for the request path '/js/app.js'
+2025-05-07 00:46:16.785 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/_vs/browserLink - 200 null text/javascript; charset=UTF-8 38.8979ms
+2025-05-07 00:46:16.791 +03:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-05-07 00:46:16.804 +03:00 [DBG] Request did not match any endpoints
+2025-05-07 00:46:16.852 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - 200 16497 application/javascript; charset=utf-8 99.1543ms
+2025-05-07 00:46:16.873 +03:00 [INF] The file /js/app.js was not modified
+2025-05-07 00:46:16.913 +03:00 [DBG] Handled. Status code: 304 File: /js/app.js
+2025-05-07 00:46:16.920 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/js/app.js - 304 null text/javascript 179.4894ms
+2025-05-07 00:46:18.130 +03:00 [DBG] Connection id "0HNCCSTIS27KR" received FIN.
+2025-05-07 00:46:18.133 +03:00 [DBG] Connection id "0HNCCSTIS27KR" is closed. The last processed stream ID was 7.
+2025-05-07 00:46:18.133 +03:00 [DBG] The connection queue processing loop for 0HNCCSTIS27KR completed.
+2025-05-07 00:46:18.150 +03:00 [DBG] Connection id "0HNCCSTIS27KR" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-05-07 00:46:18.170 +03:00 [DBG] Connection id "0HNCCSTIS27KR" stopped.
+2025-05-07 00:55:35.175 +03:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-05-07 00:55:35.404 +03:00 [DBG] Hosting starting
+2025-05-07 00:55:35.500 +03:00 [INF] User profile is available. Using 'C:\Users\Карен\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-05-07 00:55:35.527 +03:00 [DBG] Reading data from file 'C:\Users\Карен\AppData\Local\ASP.NET\DataProtection-Keys\key-4e3badc8-8650-41c3-a45e-6dbe3db524a3.xml'.
+2025-05-07 00:55:35.574 +03:00 [DBG] Found key {4e3badc8-8650-41c3-a45e-6dbe3db524a3}.
+2025-05-07 00:55:35.617 +03:00 [DBG] Considering key {4e3badc8-8650-41c3-a45e-6dbe3db524a3} with expiration date 2025-05-16 23:20:43Z as default key.
+2025-05-07 00:55:35.634 +03:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2025-05-07 00:55:35.640 +03:00 [DBG] Decrypting secret element using Windows DPAPI.
+2025-05-07 00:55:35.643 +03:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2025-05-07 00:55:35.651 +03:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2025-05-07 00:55:35.653 +03:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2025-05-07 00:55:35.657 +03:00 [DBG] Using key {4e3badc8-8650-41c3-a45e-6dbe3db524a3} as the default key.
+2025-05-07 00:55:35.659 +03:00 [DBG] Key ring with default key {4e3badc8-8650-41c3-a45e-6dbe3db524a3} was loaded during application startup.
+2025-05-07 00:55:35.668 +03:00 [DBG] Middleware loaded
+2025-05-07 00:55:35.682 +03:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16497 B).
+2025-05-07 00:55:35.684 +03:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-05-07 00:55:35.893 +03:00 [DBG] Middleware configuration started with options: {AllowedHosts = *, AllowEmptyHosts = True, IncludeFailureMessage = True}
+2025-05-07 00:55:35.898 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-05-07 00:55:35.926 +03:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-05-07 00:55:36.213 +03:00 [INF] Now listening on: https://localhost:7039
+2025-05-07 00:55:36.219 +03:00 [INF] Now listening on: http://localhost:5263
+2025-05-07 00:55:36.222 +03:00 [DBG] Loaded hosting startup assembly Laba16
+2025-05-07 00:55:36.231 +03:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-05-07 00:55:36.234 +03:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-05-07 00:55:36.237 +03:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-05-07 00:55:36.251 +03:00 [DBG] Executing API description provider 'EndpointMetadataApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0.
+2025-05-07 00:55:36.258 +03:00 [DBG] Executing API description provider 'DefaultApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v9.0.0.0.
+2025-05-07 00:55:36.480 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-07 00:55:36.481 +03:00 [INF] Hosting environment: Development
+2025-05-07 00:55:36.482 +03:00 [INF] Content root path: D:\Study\Лабораторные работы IV-ый семестр\Back-End\Laba_16
+2025-05-07 00:55:36.483 +03:00 [DBG] Hosting started
+2025-05-07 00:55:41.385 +03:00 [DBG] Connection id "0HNCCT2V8UIN2" accepted.
+2025-05-07 00:55:41.387 +03:00 [DBG] Connection id "0HNCCT2V8UIN2" started.
+2025-05-07 00:55:41.479 +03:00 [DBG] Connection 0HNCCT2V8UIN2 established using the following protocol: "Tls12"
+2025-05-07 00:55:41.598 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/ - null null
+2025-05-07 00:55:41.871 +03:00 [DBG] No candidates found for the request path '/'
+2025-05-07 00:55:41.877 +03:00 [DBG] Request did not match any endpoints
+2025-05-07 00:55:41.935 +03:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-05-07 00:55:41.938 +03:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-05-07 00:55:41.952 +03:00 [INF] Sending file. Request path: '/index.html'. Physical path: 'D:\Study\Лабораторные работы IV-ый семестр\Back-End\Laba_16\wwwroot\index.html'
+2025-05-07 00:55:41.957 +03:00 [DBG] Response markup was updated to include Browser Link script injection.
+2025-05-07 00:55:41.959 +03:00 [DBG] Response markup was updated to include browser refresh script injection.
+2025-05-07 00:55:41.965 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/index.html - 200 null text/html 374.5792ms
+2025-05-07 00:55:42.052 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/css/site.css - null null
+2025-05-07 00:55:42.075 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-07 00:55:42.090 +03:00 [DBG] No candidates found for the request path '/css/site.css'
+2025-05-07 00:55:42.156 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/_vs/browserLink - null null
+2025-05-07 00:55:42.168 +03:00 [DBG] Request did not match any endpoints
+2025-05-07 00:55:42.189 +03:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-05-07 00:55:42.206 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - 200 16497 application/javascript; charset=utf-8 130.981ms
+2025-05-07 00:55:42.221 +03:00 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'D:\Study\Лабораторные работы IV-ый семестр\Back-End\Laba_16\wwwroot\css\site.css'
+2025-05-07 00:55:42.232 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/css/site.css - 200 213 text/css 181.1755ms
+2025-05-07 00:55:42.256 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/_vs/browserLink - 200 null text/javascript; charset=UTF-8 103.219ms
+2025-05-07 00:55:43.939 +03:00 [DBG] Connection id "0HNCCT2V8UIN2" received FIN.
+2025-05-07 00:55:43.945 +03:00 [DBG] The connection queue processing loop for 0HNCCT2V8UIN2 completed.
+2025-05-07 00:55:43.949 +03:00 [DBG] Connection id "0HNCCT2V8UIN2" is closed. The last processed stream ID was 7.
+2025-05-07 00:55:43.953 +03:00 [DBG] Connection id "0HNCCT2V8UIN2" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-05-07 00:55:43.971 +03:00 [DBG] Connection id "0HNCCT2V8UIN2" stopped.
+2025-05-07 01:21:35.785 +03:00 [DBG] Connection id "0HNCCT2V8UIN3" accepted.
+2025-05-07 01:21:35.824 +03:00 [DBG] Connection id "0HNCCT2V8UIN3" started.
+2025-05-07 01:21:35.858 +03:00 [DBG] Connection 0HNCCT2V8UIN3 established using the following protocol: "Tls12"
+2025-05-07 01:21:35.868 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-07 01:21:35.925 +03:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-05-07 01:21:35.945 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - 200 16497 application/javascript; charset=utf-8 76.8627ms
+2025-05-07 01:21:36.654 +03:00 [DBG] Connection id "0HNCCT2V8UIN3" received FIN.
+2025-05-07 01:21:36.657 +03:00 [DBG] Connection id "0HNCCT2V8UIN3" is closed. The last processed stream ID was 1.
+2025-05-07 01:21:36.657 +03:00 [DBG] The connection queue processing loop for 0HNCCT2V8UIN3 completed.
+2025-05-07 01:21:36.659 +03:00 [DBG] Connection id "0HNCCT2V8UIN3" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-05-07 01:21:36.694 +03:00 [DBG] Connection id "0HNCCT2V8UIN3" stopped.
+2025-05-07 01:21:37.866 +03:00 [DBG] Connection id "0HNCCT2V8UIN4" accepted.
+2025-05-07 01:21:37.871 +03:00 [DBG] Connection id "0HNCCT2V8UIN4" started.
+2025-05-07 01:21:37.889 +03:00 [DBG] Connection 0HNCCT2V8UIN4 established using the following protocol: "Tls12"
+2025-05-07 01:21:37.896 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/css/site.css - null null
+2025-05-07 01:21:37.896 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/ - null null
+2025-05-07 01:21:37.916 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-05-07 01:21:37.925 +03:00 [DBG] No candidates found for the request path '/css/site.css'
+2025-05-07 01:21:37.928 +03:00 [DBG] No candidates found for the request path '/'
+2025-05-07 01:21:37.932 +03:00 [DBG] No candidates found for the request path '/.well-known/appspecific/com.chrome.devtools.json'
+2025-05-07 01:21:37.940 +03:00 [DBG] Request did not match any endpoints
+2025-05-07 01:21:37.942 +03:00 [DBG] Request did not match any endpoints
+2025-05-07 01:21:37.944 +03:00 [DBG] Request did not match any endpoints
+2025-05-07 01:21:37.949 +03:00 [INF] The file /css/site.css was not modified
+2025-05-07 01:21:37.950 +03:00 [INF] The file /index.html was not modified
+2025-05-07 01:21:37.963 +03:00 [DBG] The request path /.well-known/appspecific/com.chrome.devtools.json does not match an existing file
+2025-05-07 01:21:37.980 +03:00 [DBG] Handled. Status code: 304 File: /index.html
+2025-05-07 01:21:37.980 +03:00 [DBG] Handled. Status code: 304 File: /css/site.css
+2025-05-07 01:21:38.024 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/index.html - 304 null text/html 128.4631ms
+2025-05-07 01:21:38.070 +03:00 [INF] No cached response available for this request.
+2025-05-07 01:21:38.072 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/css/site.css - 304 null text/css 176.5427ms
+2025-05-07 01:21:38.162 +03:00 [DBG] Response is not cacheable because it does not contain the 'public' cache directive.
+2025-05-07 01:21:38.228 +03:00 [INF] The response could not be cached for this request.
+2025-05-07 01:21:38.293 +03:00 [INF] HTTP GET /.well-known/appspecific/com.chrome.devtools.json responded 404 in 272.7416 ms
+2025-05-07 01:21:38.328 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 412.8096ms
+2025-05-07 01:21:38.344 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7039/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-05-07 01:21:41.668 +03:00 [DBG] Connection id "0HNCCT2V8UIN4" received FIN.
+2025-05-07 01:21:41.786 +03:00 [DBG] Connection id "0HNCCT2V8UIN4" is closed. The last processed stream ID was 5.
+2025-05-07 01:21:41.839 +03:00 [DBG] Connection id "0HNCCT2V8UIN4" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-05-07 01:21:41.786 +03:00 [DBG] The connection queue processing loop for 0HNCCT2V8UIN4 completed.
+2025-05-07 01:21:41.865 +03:00 [DBG] Connection id "0HNCCT2V8UIN4" stopped.
+2025-05-07 01:21:47.633 +03:00 [DBG] Connection id "0HNCCT2V8UIN5" accepted.
+2025-05-07 01:21:47.640 +03:00 [DBG] Connection id "0HNCCT2V8UIN5" started.
+2025-05-07 01:21:47.668 +03:00 [DBG] Connection 0HNCCT2V8UIN5 established using the following protocol: "Tls12"
+2025-05-07 01:21:47.676 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/ - null null
+2025-05-07 01:21:47.729 +03:00 [DBG] No candidates found for the request path '/'
+2025-05-07 01:21:47.737 +03:00 [DBG] Request did not match any endpoints
+2025-05-07 01:21:47.754 +03:00 [INF] The file /index.html was not modified
+2025-05-07 01:21:47.767 +03:00 [DBG] Handled. Status code: 304 File: /index.html
+2025-05-07 01:21:47.783 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/index.html - 304 null text/html 107.6572ms
+2025-05-07 01:21:47.914 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-05-07 01:21:47.928 +03:00 [DBG] No candidates found for the request path '/.well-known/appspecific/com.chrome.devtools.json'
+2025-05-07 01:21:47.945 +03:00 [DBG] Request did not match any endpoints
+2025-05-07 01:21:47.938 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-07 01:21:47.950 +03:00 [DBG] The request path /.well-known/appspecific/com.chrome.devtools.json does not match an existing file
+2025-05-07 01:21:48.016 +03:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-05-07 01:21:48.022 +03:00 [INF] No cached response available for this request.
+2025-05-07 01:21:48.039 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - 200 16497 application/javascript; charset=utf-8 102.1278ms
+2025-05-07 01:21:48.051 +03:00 [DBG] Response is not cacheable because it does not contain the 'public' cache directive.
+2025-05-07 01:21:48.085 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/_vs/browserLink - null null
+2025-05-07 01:21:48.110 +03:00 [INF] The response could not be cached for this request.
+2025-05-07 01:21:48.200 +03:00 [INF] HTTP GET /.well-known/appspecific/com.chrome.devtools.json responded 404 in 178.7404 ms
+2025-05-07 01:21:48.226 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/_vs/browserLink - 200 null text/javascript; charset=UTF-8 141.418ms
+2025-05-07 01:21:48.318 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 403.6081ms
+2025-05-07 01:21:48.375 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7039/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-05-07 01:21:51.678 +03:00 [DBG] Connection id "0HNCCT2V8UIN5" received FIN.
+2025-05-07 01:21:51.689 +03:00 [DBG] Connection id "0HNCCT2V8UIN5" is closed. The last processed stream ID was 7.
+2025-05-07 01:21:51.692 +03:00 [DBG] The connection queue processing loop for 0HNCCT2V8UIN5 completed.
+2025-05-07 01:21:51.706 +03:00 [DBG] Connection id "0HNCCT2V8UIN5" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-05-07 01:21:51.742 +03:00 [DBG] Connection id "0HNCCT2V8UIN5" stopped.
+2025-05-07 01:41:08.587 +03:00 [DBG] Connection id "0HNCCT2V8UIN6" accepted.
+2025-05-07 01:41:08.622 +03:00 [DBG] Connection id "0HNCCT2V8UIN6" started.
+2025-05-07 01:41:08.652 +03:00 [DBG] Connection 0HNCCT2V8UIN6 established using the following protocol: "Tls12"
+2025-05-07 01:41:08.659 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/ - null null
+2025-05-07 01:41:08.694 +03:00 [DBG] No candidates found for the request path '/'
+2025-05-07 01:41:08.697 +03:00 [DBG] Request did not match any endpoints
+2025-05-07 01:41:08.708 +03:00 [INF] The file /index.html was not modified
+2025-05-07 01:41:08.712 +03:00 [DBG] Handled. Status code: 304 File: /index.html
+2025-05-07 01:41:08.719 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/index.html - 304 null text/html 59.7399ms
+2025-05-07 01:41:08.866 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/css/site.css - null null
+2025-05-07 01:41:08.914 +03:00 [DBG] No candidates found for the request path '/css/site.css'
+2025-05-07 01:41:08.868 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-05-07 01:41:08.868 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-07 01:41:08.925 +03:00 [DBG] Request did not match any endpoints
+2025-05-07 01:41:08.946 +03:00 [DBG] No candidates found for the request path '/.well-known/appspecific/com.chrome.devtools.json'
+2025-05-07 01:41:08.969 +03:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-05-07 01:41:08.997 +03:00 [DBG] Request did not match any endpoints
+2025-05-07 01:41:09.086 +03:00 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'D:\Study\Лабораторные работы IV-ый семестр\Back-End\Laba_16\wwwroot\css\site.css'
+2025-05-07 01:41:09.192 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/_vs/browserLink - null null
+2025-05-07 01:41:09.194 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - 200 16497 application/javascript; charset=utf-8 325.9279ms
+2025-05-07 01:41:09.202 +03:00 [DBG] The request path /.well-known/appspecific/com.chrome.devtools.json does not match an existing file
+2025-05-07 01:41:09.207 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/css/site.css - 200 216 text/css 340.923ms
+2025-05-07 01:41:09.239 +03:00 [INF] No cached response available for this request.
+2025-05-07 01:41:09.243 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/_vs/browserLink - 200 null text/javascript; charset=UTF-8 50.7921ms
+2025-05-07 01:41:09.258 +03:00 [DBG] Response is not cacheable because it does not contain the 'public' cache directive.
+2025-05-07 01:41:09.264 +03:00 [INF] The response could not be cached for this request.
+2025-05-07 01:41:09.271 +03:00 [INF] HTTP GET /.well-known/appspecific/com.chrome.devtools.json responded 404 in 31.7653 ms
+2025-05-07 01:41:09.276 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 407.7644ms
+2025-05-07 01:41:09.284 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7039/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-05-07 01:41:13.484 +03:00 [DBG] Connection id "0HNCCT2V8UIN6" received FIN.
+2025-05-07 01:41:13.486 +03:00 [DBG] Connection id "0HNCCT2V8UIN6" is closed. The last processed stream ID was 9.
+2025-05-07 01:41:13.486 +03:00 [DBG] The connection queue processing loop for 0HNCCT2V8UIN6 completed.
+2025-05-07 01:41:13.489 +03:00 [DBG] Connection id "0HNCCT2V8UIN6" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-05-07 01:41:13.498 +03:00 [DBG] Connection id "0HNCCT2V8UIN6" stopped.
+2025-05-07 01:44:04.462 +03:00 [DBG] Connection id "0HNCCT2V8UIN7" accepted.
+2025-05-07 01:44:04.470 +03:00 [DBG] Connection id "0HNCCT2V8UIN7" started.
+2025-05-07 01:44:04.506 +03:00 [DBG] Connection 0HNCCT2V8UIN7 established using the following protocol: "Tls12"
+2025-05-07 01:44:04.544 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-07 01:44:04.592 +03:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-05-07 01:44:04.599 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - 200 16497 application/javascript; charset=utf-8 54.3682ms
+2025-05-07 01:44:08.489 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/css/site.css - null null
+2025-05-07 01:44:08.500 +03:00 [DBG] No candidates found for the request path '/css/site.css'
+2025-05-07 01:44:08.506 +03:00 [DBG] Request did not match any endpoints
+2025-05-07 01:44:08.524 +03:00 [INF] The file /css/site.css was not modified
+2025-05-07 01:44:08.533 +03:00 [DBG] Handled. Status code: 304 File: /css/site.css
+2025-05-07 01:44:08.543 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/css/site.css - 304 null text/css 53.6494ms
+2025-05-07 01:44:08.658 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-05-07 01:44:08.672 +03:00 [DBG] No candidates found for the request path '/.well-known/appspecific/com.chrome.devtools.json'
+2025-05-07 01:44:08.684 +03:00 [DBG] Request did not match any endpoints
+2025-05-07 01:44:08.690 +03:00 [DBG] The request path /.well-known/appspecific/com.chrome.devtools.json does not match an existing file
+2025-05-07 01:44:08.693 +03:00 [INF] No cached response available for this request.
+2025-05-07 01:44:08.700 +03:00 [DBG] Response is not cacheable because it does not contain the 'public' cache directive.
+2025-05-07 01:44:08.703 +03:00 [INF] The response could not be cached for this request.
+2025-05-07 01:44:08.707 +03:00 [INF] HTTP GET /.well-known/appspecific/com.chrome.devtools.json responded 404 in 13.4473 ms
+2025-05-07 01:44:08.710 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 51.598ms
+2025-05-07 01:44:08.722 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7039/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-05-07 01:44:13.784 +03:00 [DBG] Connection id "0HNCCT2V8UIN7" received FIN.
+2025-05-07 01:44:13.792 +03:00 [DBG] Connection id "0HNCCT2V8UIN7" is closed. The last processed stream ID was 5.
+2025-05-07 01:44:13.792 +03:00 [DBG] The connection queue processing loop for 0HNCCT2V8UIN7 completed.
+2025-05-07 01:44:13.806 +03:00 [DBG] Connection id "0HNCCT2V8UIN7" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-05-07 01:44:13.880 +03:00 [DBG] Connection id "0HNCCT2V8UIN7" stopped.
+2025-05-07 01:44:22.350 +03:00 [DBG] Connection id "0HNCCT2V8UIN8" accepted.
+2025-05-07 01:44:22.353 +03:00 [DBG] Connection id "0HNCCT2V8UIN8" started.
+2025-05-07 01:44:22.367 +03:00 [DBG] Connection 0HNCCT2V8UIN8 established using the following protocol: "Tls12"
+2025-05-07 01:44:22.369 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/ - null null
+2025-05-07 01:44:22.385 +03:00 [DBG] No candidates found for the request path '/'
+2025-05-07 01:44:22.386 +03:00 [DBG] Request did not match any endpoints
+2025-05-07 01:44:22.388 +03:00 [INF] The file /index.html was not modified
+2025-05-07 01:44:22.389 +03:00 [DBG] Handled. Status code: 304 File: /index.html
+2025-05-07 01:44:22.391 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/index.html - 304 null text/html 21.1195ms
+2025-05-07 01:44:22.468 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-05-07 01:44:22.476 +03:00 [DBG] No candidates found for the request path '/.well-known/appspecific/com.chrome.devtools.json'
+2025-05-07 01:44:22.480 +03:00 [DBG] Request did not match any endpoints
+2025-05-07 01:44:22.483 +03:00 [DBG] The request path /.well-known/appspecific/com.chrome.devtools.json does not match an existing file
+2025-05-07 01:44:22.486 +03:00 [INF] No cached response available for this request.
+2025-05-07 01:44:22.490 +03:00 [DBG] Response is not cacheable because it does not contain the 'public' cache directive.
+2025-05-07 01:44:22.492 +03:00 [INF] The response could not be cached for this request.
+2025-05-07 01:44:22.494 +03:00 [INF] HTTP GET /.well-known/appspecific/com.chrome.devtools.json responded 404 in 7.8123 ms
+2025-05-07 01:44:22.525 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-07 01:44:22.532 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 63.9063ms
+2025-05-07 01:44:22.588 +03:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-05-07 01:44:22.629 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7039/_vs/browserLink - null null
+2025-05-07 01:44:22.640 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7039/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-05-07 01:44:22.657 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/_framework/aspnetcore-browser-refresh.js - 200 16497 application/javascript; charset=utf-8 132.6531ms
+2025-05-07 01:44:22.792 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7039/_vs/browserLink - 200 null text/javascript; charset=UTF-8 163.4967ms
+2025-05-07 01:44:23.790 +03:00 [DBG] Connection id "0HNCCT2V8UIN8" received FIN.
+2025-05-07 01:44:23.833 +03:00 [DBG] Connection id "0HNCCT2V8UIN8" is closed. The last processed stream ID was 7.
+2025-05-07 01:44:23.837 +03:00 [DBG] Connection id "0HNCCT2V8UIN8" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-05-07 01:44:23.871 +03:00 [DBG] The connection queue processing loop for 0HNCCT2V8UIN8 completed.
+2025-05-07 01:44:23.885 +03:00 [DBG] Connection id "0HNCCT2V8UIN8" stopped.
