@@ -1,0 +1,6 @@
+wwwroot\index.html
+wwwroot\js\script.js
+wwwroot\css\style.css
+D:\Study\Лабораторные работы IV-ый семестр\Back-End\Laba_15\backend\wwwroot\index.html
+D:\Study\Лабораторные работы IV-ый семестр\Back-End\Laba_15\backend\wwwroot\js\script.js
+D:\Study\Лабораторные работы IV-ый семестр\Back-End\Laba_15\backend\wwwroot\css\style.css
